@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/To-do-list-React-app/', 
+  base: "./To-do-list-React-app", 
 })
 
